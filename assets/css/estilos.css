@@ -1,0 +1,35 @@
+navbar-brand{
+  width: 200px;
+  height: 80px;
+  text-align: justify;
+   }
+   .card-title-principal{
+    color: white;
+    text-align: left;
+    margin-top: 200px;
+    margin-bottom: 80px;
+    text-decoration: solid;
+    padding-left: 100px;
+   }
+  .card-text-principal{
+    color: whitesmoke;
+    text-align:initial;
+    padding-left: 100px;
+    font-size: x-large;
+    margin-bottom: 20px;
+  }
+  .card-antecedentes{
+    background-color: black;
+    color:white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .card {
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+  }
